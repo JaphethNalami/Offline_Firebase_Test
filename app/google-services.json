@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481893522544",
+    "project_id": "fir-offline-test-e7c41",
+    "storage_bucket": "fir-offline-test-e7c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481893522544:android:a4a533483bd6c1256de8b5",
+        "android_client_info": {
+          "package_name": "com.example.offlinefirebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzDRKaK6MHMUvf9TRZxc5zTqqNFdJ1Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
